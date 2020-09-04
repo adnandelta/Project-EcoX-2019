@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Eco X</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string-array name="country_arrays">
+        <item>Choose City</item>
+        <item>Bangalore</item>
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Mysore</item>
+
+    </string-array>
+
+</resources>
